@@ -1,4 +1,4 @@
-# Movie-rating-system-using-python
+# Movie-rating-system-using-python project
 ##Problem Statement:
 
 #A movie review website needs to create a database to store their data and perform operations on it. Create a dummy model with 100 users and 1000 movies to explain how it will work.
